@@ -1,6 +1,6 @@
 ## Hey there, I am Rachi Bhavsar👋
 
-
+ 
 # Education 
 
 Bachelor of Technology in Computer Science, RGPV university Bhopal 
