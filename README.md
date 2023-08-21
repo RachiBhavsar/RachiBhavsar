@@ -1,7 +1,7 @@
 ## Hey there, I am Rachi Bhavsar👋
 
 
-###### [LINKED IN]-(https://www.linkedin.com/in/rachi-bhavsar-0090bb243)
+
 
 # Education
 
@@ -10,13 +10,18 @@ Bachelor of Technology in Computer Science, RGPV university Bhopal
 
 
 # Technical Skills 
----------------------------------------------------------------------------------------------------------------------------------------
+
 FRONTEND:- HTML, CSS,JAVASCRIPT, BOOTSTRAP
 
 BACKEND:- PHP, LARAVEL, JAVA
 
 DATABASE:- SQL, MYSQL
 
+# Social
+
+Email - rachisant18@gmail.com
+
+Linkdin - https://www.linkedin.com/in/rachi-bhavsar-0090bb243
 
 <!--
 **RachiBhavsar/RachiBhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
