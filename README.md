@@ -1,4 +1,9 @@
-#Hi there [I am Rachi Bhavsar]
+##Hi there [I am Rachi Bhavsar]
+##Technical Skills
+FRONTEND:- HTML, CSS,JAVASCRIPT
+BACKEND:- PHP, LARAVEL, JAVA
+DATABASE:- SQL, MYSQL
+
 
 <!--
 **RachiBhavsar/RachiBhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
