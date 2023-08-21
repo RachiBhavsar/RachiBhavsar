@@ -10,9 +10,11 @@ Bachelor of Technology in Computer Science, RGPV university Bhopal
 
 
 # Technical Skills 
-
+---------------------------------------------------------------------------------------------------------------------------------------
 FRONTEND:- HTML, CSS,JAVASCRIPT, BOOTSTRAP
+
 BACKEND:- PHP, LARAVEL, JAVA
+
 DATABASE:- SQL, MYSQL
 
 
