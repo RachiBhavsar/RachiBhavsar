@@ -24,6 +24,9 @@ Warehouse System
 
 Online Handcrafted Marketing System
 
+# Certifications
+
+Python
 
 # Experience
 
