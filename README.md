@@ -1,5 +1,6 @@
 ## Hey there, I am Rachi Bhavsar👋
 
+# About me 
 
 
 
@@ -16,6 +17,14 @@ FRONTEND:- HTML, CSS,JAVASCRIPT, BOOTSTRAP
 BACKEND:- PHP, LARAVEL, JAVA
 
 DATABASE:- SQL, MYSQL
+
+# Projects
+
+Non Profit Organization
+
+Warehouse System
+
+Online Handcrafted Marketing System
 
 # Social
 
