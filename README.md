@@ -1,13 +1,9 @@
 ## Hey there, I am Rachi Bhavsar👋
 
-# About me 
-
-
 
 # Education
 
 Bachelor of Technology in Computer Science, RGPV university Bhopal 
-
 
 
 # Technical Skills 
@@ -25,6 +21,16 @@ Non Profit Organization
 Warehouse System
 
 Online Handcrafted Marketing System
+
+
+# Experience
+
+Web Development and Designing from Oasis Infobyte
+
+React Js from SYNC INTERNS
+
+
+
 
 # Social
 
