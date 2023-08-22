@@ -14,7 +14,7 @@ BACKEND:- PHP, LARAVEL, JAVA
 
 DATABASE:- SQL, MYSQL
 
-Tools:- Git, GitHub, MS Office
+TOOLS:- Git, GitHub, MS Office
 
 # Projects
 
