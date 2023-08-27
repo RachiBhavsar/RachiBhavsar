@@ -1,5 +1,8 @@
 ## Hey there, I am Rachi Bhavsar👋
 
+# About me 
+
+I am looking for good career growth opportunities were my talent and knowledge could be best subjected utilized for the benefit of the organization and myself
  
 # Education 
 
